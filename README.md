@@ -6,7 +6,6 @@ Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras 
 
 #### Estou a uma mensagem de distância!!! 📱
 
-### Contact me
 <div>
   ✉️ E-mail: flavioasp77@gmail.com.com
 </div>
@@ -32,7 +31,10 @@ Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras 
   <img align="center" alt="Flávio-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   <img align="center" alt="Flávoi-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Flávio-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Flávio-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   
+  <img align="center" alt="Flávio-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Flávio-Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" /> 
+  <img align="center" alt="Flávio-Express" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" /> 
+  <img align="center" alt="Flávio-Linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" /> 
 </div>
 
 ##
