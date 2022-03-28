@@ -18,6 +18,8 @@ Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras 
 
 <div align="center">
   <a href="https://github.com/flavioasp77">
+  <a href="https://github.com/msconrado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msconrado&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioasp77&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
@@ -30,11 +32,7 @@ Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras 
   <img align="center" alt="Flávio-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   <img align="center" alt="Flávoi-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Flávio-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Flávio-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <a target="_blank" rel="noopener noreferrer" href="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635867691437.png"><img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635867691437.png" width="250px" style="max-width: 100%;"></a>
+  <img align="center" alt="Flávio-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   
 </div>
 
 ##
-
-  #### Contributions
-  ![Snake animation](https://github.com/flavioasp77/flavioasp77/blob/output/github-contribution-grid-snake.svg)
