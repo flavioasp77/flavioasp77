@@ -13,15 +13,12 @@ Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras 
 <div>
   🔗 Linkedin: https://www.linkedin.com/in/flavio-anselmo-dos-santos-pires/
 </div>
-<div>
-  🖥️ Portfolio: https://cristhyanearaldi.github.io/
-</div>
 
 ##
 
 <div align="center">
   <a href="https://github.com/flavioasp77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msconrado&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioasp77&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
