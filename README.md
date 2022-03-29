@@ -12,8 +12,6 @@ Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras 
 <div>
   🔗 Linkedin: https://www.linkedin.com/in/flavio-anselmo-dos-santos-pires/
 </div>
-
-##
  
 <div style="display: inline_block"><br>
   
