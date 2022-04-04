@@ -1,6 +1,6 @@
 ## Olá, eu sou o Flávio Pires!  👋
 
-Sou desenvolvedor Web Junior (foco em backend). Estou em transição de carreira para me tornar um `dev` e para essa empreitada conto com toda a expertise da <a href="https://www.betrybe.com/">Trybe</a>.
+Sou desenvolvedor Web Junior (foco em backend). Estou em transição de carreira para me tornar um `dev` e para essa empreitada conto com toda a expertise da <a href="https://www.betrybe.com/">Trybe</a> onde curso Desenvolvimento Web Full Stack.
 
 Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras do que tenho aprendido e minha forma de resolver os desafios propostos.
 
