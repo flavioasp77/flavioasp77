@@ -1,6 +1,6 @@
 ## Olá, eu sou o Flávio Pires!  👋
 
-Oi, sou o Flávio! Desenvolvedor Full Stack com mais de 2 anos de experiência em Desenvolvimento Web. Sou uma pessoa bem-humorada, apaixonado por tecnologia, música, games, filmes e tudo o que envolve tecnoloigia, inovação. Ah, também gosto muito de arqueologia e astronomia.
+Desenvolvedor Full Stack com mais de 2 anos de experiência em Desenvolvimento Web. Sou uma pessoa bem-humorada, apaixonado por tecnologia, música, games, filmes e tudo o que envolve tecnoloigia, inovação. Ah, também gosto muito de arqueologia e astronomia.
 
 Tenho conhecimento em tecnologias como Java, SpringBoot, JSP, Linux, Github, HTML, CSS, Next, Nest, JavaScript, SQL (Mysql), Express, MSC, Rest e RestFul, ORM, Autenticação (JWT), TypeScript, Programação Orientada a Objetos (POO) e princípios SOLID.
 
