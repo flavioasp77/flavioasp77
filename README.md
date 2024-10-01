@@ -6,7 +6,7 @@ Tenho conhecimento em tecnologias como Java, SpringBoot, JSP, Linux, Github, HTM
 
 Atualmente trabalho no desenvolvimento de plataforma web, LGPD cartórios, implementada para cartórios se adequarem à LGPD (Lei Geral de Proteção de Dados), o que me dá uma boa dose de desafio e aprendizado. Nesse sistema coloco em prática minhas habilidades com React.js , typescript, nodejs, MongoDB, serviços AWS, tais como S3, Lambda, e Api Gareway aplicando microsserviços, EC2 e um pouquinho de Angular.
 
-Goste de desafios e etou sempre buscando me aperfeiçoar, tando na parte profissional/técnica como na humana. Dedicação, entusiasmo e criatividade são características que me definem. Estou sempre pronto para enfrentar novos desafios aprendendo e ensinando. Ouvindo e dando sugestões que contribuam para o desenvolvimento do projeto e da equipe como um todo.
+Gostg de desafios e estou sempre buscando me aperfeiçoar, tando na parte profissional/técnica como na humana. Dedicação, entusiasmo e criatividade são características que me definem. Estou sempre pronto para enfrentar novos desafios aprendendo e ensinando. Ouvindo e dando sugestões que contribuam para o desenvolvimento do projeto e da equipe como um todo.
 
 Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras do que tenho aprendido e minha forma de resolver os desafios propostos.
 
