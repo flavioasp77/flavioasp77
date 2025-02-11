@@ -44,6 +44,4 @@ Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras 
 <div>
   🔗 Linkedin: https://www.linkedin.com/in/flavio-anselmo-dos-santos-pires/
 </div>
-<div>
-  💬 WhatsApp: [31 98281-9394](https://wa.me/5531982819394)
-</div>
+
