@@ -1,12 +1,38 @@
-## Olá, eu sou o Flávio Pires!  👋
+# 👋 Olá, eu sou o Flávio!
 
-Desenvolvedor Full Stack com mais de 2 anos de experiência em Desenvolvimento Web. Sou uma pessoa bem-humorada, apaixonado por tecnologia, música, games, filmes e tudo o que envolve tecnoloigia, inovação. Ah, também gosto muito de arqueologia e astronomia.
+🚀 **Desenvolvedor Full Stack**  apaixonado por tecnologia e soluções inovadoras. Tenho experiência no desenvolvimento de aplicações web escaláveis, seguras e eficientes, atuando tanto no frontend quanto no backend. Sempre busco aprimorar minhas habilidades, explorando novas tecnologias e boas práticas de desenvolvimento.
 
-Tenho conhecimento em tecnologias como Java, SpringBoot, JSP, Linux, Github, HTML, CSS, Next, Nest, JavaScript, SQL (Mysql), Express, MSC, Rest e RestFul, ORM, Autenticação (JWT), TypeScript, Programação Orientada a Objetos (POO) e princípios SOLID.
+🎯 **Objetivo**: Criar soluções eficientes que resolvam desafios reais e impulsionem negócios, enquanto continuo evoluindo profissionalmente.
 
-Atualmente trabalho no desenvolvimento de plataforma web, LGPD cartórios, implementada para cartórios se adequarem à LGPD (Lei Geral de Proteção de Dados), o que me dá uma boa dose de desafio e aprendizado. Nesse sistema coloco em prática minhas habilidades com React.js , typescript, nodejs, MongoDB, serviços AWS, tais como S3, Lambda, e Api Gareway aplicando microsserviços, EC2 e um pouquinho de Angular.
+## 🛠️ Tech Stack
 
-Gostg de desafios e estou sempre buscando me aperfeiçoar, tando na parte profissional/técnica como na humana. Dedicação, entusiasmo e criatividade são características que me definem. Estou sempre pronto para enfrentar novos desafios aprendendo e ensinando. Ouvindo e dando sugestões que contribuam para o desenvolvimento do projeto e da equipe como um todo.
+### 🖥️ Backend:
+- Java
+- SpringBoot
+- Express
+- Nest
+- Rest e RestFul
+- Autenticação (JWT)
+- Programação Orientada a Objetos (POO)
+- Princípios SOLID
+- Modelagem de Domínio
+- Arquitetura limpa e hexagonal
+
+### 🌐 Frontend:
+- Next
+- JSP
+- TypeScript
+
+### 💾 Banco de Dados:
+- SQL (MySQL, Postgres)
+- ORM (Object Relational Mapping)
+
+### 🔧 Outros:
+- Linux
+- Git
+- Github
+
+Gosto de desafios e estou sempre buscando me aperfeiçoar, tando na parte profissional/técnica como na humana. Dedicação, entusiasmo e criatividade são características que me definem. Estou sempre pronto para enfrentar novos desafios aprendendo e ensinando. Ouvindo e dando sugestões que contribuam para o desenvolvimento do projeto e da equipe como um todo.
 
 Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras do que tenho aprendido e minha forma de resolver os desafios propostos.
 
@@ -18,22 +44,3 @@ Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras 
 <div>
   🔗 Linkedin: https://www.linkedin.com/in/flavio-anselmo-dos-santos-pires/
 </div>
- 
-<div style="display: inline_block"><br>
-  
-## Stacks
-  
-  <img align="center" alt="Flavio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Flávio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Flávio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Flávio-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Flávio-Spring" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Flávio-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="Flávoi-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Flávio-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Flávio-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Flávio-Docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" /> 
-  <img align="center" alt="Flávio-Express" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" /> 
- </div>
-
-##
