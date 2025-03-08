@@ -32,7 +32,7 @@
 - Git
 - Github
 
-Gosto de desafios e estou sempre buscando me aperfeiçoar, tando na parte profissional/técnica como na humana. Dedicação, entusiasmo e criatividade são características que me definem. Estou sempre pronto para enfrentar novos desafios aprendendo e ensinando. Ouvindo e dando sugestões que contribuam para o desenvolvimento do projeto e da equipe como um todo.
+Gosto de desafios e estou sempre buscando me aperfeiçoar, tanto na parte profissional/técnica como na humana. Dedicação, entusiasmo e criatividade são características que me definem. Estou sempre pronto para enfrentar novos desafios aprendendo e ensinando. Ouvindo e dando sugestões que contribuam para o desenvolvimento do projeto e da equipe como um todo.
 
 Aqui você encontrará alguns dos projetos desenvolvidos no curso como amostras do que tenho aprendido e minha forma de resolver os desafios propostos.
 
